@@ -2,7 +2,7 @@
 
 ### Bonjour à tous 👋
 
-Personnelement j'utilise Github pour tracer toutes mes expériences et mes apprentissages, donc vous allez pouvoir y retrouver de tout.
+Personnelement j'utilise Github pour tracer toutes mes expériences et mes apprentissages, donc vous allez pouvoir y retrouver de tout.  
 Du sérieux, comme de l'un peu moins... 😇. 
 
 De part mon poste actuellement je suis un développeur orienté PHP, mais je suis en pleine reconversion afin d'actualiser mes compétences !
